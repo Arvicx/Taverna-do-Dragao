@@ -1,3 +1,5 @@
+Uma cafeteria fictícia focada no público Geek, focando justamente no longo uso das instalações. Informações fictícias a seguir:
+
 <h1>Informações da Empresa:</h1>
 
 -  Nome da Empresa: Taverna do Dragão
